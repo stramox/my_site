@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node.js (if applicable)
+node_modules/
+
+# Temporary Files
+*.swp
+*.tmp
